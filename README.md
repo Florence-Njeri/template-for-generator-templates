@@ -114,7 +114,7 @@ There are two ways you can work on template development:
 
 WHen developing a new template, please refer to the following documentation:
 
-- [Generator documentation](https://github.com/asyncapi/generator/blob/master/docs)
+- [Generator documentation](https://github.com/asyncapi/generator/blob/master/docs/README.md)
 - [React SDK documentation](https://github.com/asyncapi/generator-react-sdk)
 - [React documentation](https://en.reactjs.org/docs/getting-started.html)
 - [AsyncAPI JavaScript Parser API reference](https://github.com/asyncapi/parser-js/blob/master/API.md)
